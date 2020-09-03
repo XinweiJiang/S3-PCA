@@ -1,5 +1,7 @@
 # S3-PCA
-Dimensionality reduction and classification of hyperspectral image based on S3-PCA
+Code for the paper 'Spectral-Spatial and Superpixelwise PCA for Unsupervised Feature Extraction of Hyperspectral Imagery' submitted to TGRS.
+
+Run 'demo_S3_PCA.m' to regenerate the experimental results in our paper.
 
 
 If you need another two datasets (PaviaU and Salinas), please feel free to contact me. Or you can download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
